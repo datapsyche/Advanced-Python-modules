@@ -43,5 +43,7 @@ This section contains all the Advanced Python modules that are used in Python
                 r'\w+', # alphanumeric characters
                 r'\W+', # non-alphanumeric
                 ]
+                
+  8. StringIO: implements an in-memory file like object. This object can then be used as input or output to most functions that would         expect a standard file object.
 
         
